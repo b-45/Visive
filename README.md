@@ -1,0 +1,1 @@
+Landing page for email marketing.  Promotion of afrobeats events in globally.
