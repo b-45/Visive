@@ -98,6 +98,7 @@ h1, h4 {
   background-color: rgba(white, .5);
   border: none;
   outline: none;
+  -webkit-appearance: none;
 }
 
 *:focus {
@@ -114,6 +115,8 @@ h1, h4 {
   border-radius: 3px;
   border: none;
   cursor: pointer;
+  -webkit-appearance: none;
+
 }
 .btn:hover {
   background-color: rgb(116, 49, 33)
