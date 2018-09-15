@@ -19,6 +19,7 @@ body {
   font-size: .75em;
   line-height: 1.7;
   color: #434343;
+  -webkit-font-smoothing: antialiased;
 }
 
 ::selection {
