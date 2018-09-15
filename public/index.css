@@ -42,13 +42,15 @@ body {
 
 
 .logo-box{
-display: flex;
-justify-content: space-between;
-margin-bottom: 100px;
+display: block;
+/* justify-content: space-between; */
+/* margin-bottom: 100px; */
+
 }
 
-.logo {
-  height: 60px;
+.logo svg {
+  /* height: 60px; */
+ 
 }
 
 .primary-group {
