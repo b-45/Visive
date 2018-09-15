@@ -1,1 +1,1 @@
-Landing page for email marketing.  Promotion of afrobeats events globally. Visit website at visiveent.com.
+Landing page for email marketing.  Promotion of afrobeats events globally. Visit website at www.visiveent.com
