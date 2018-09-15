@@ -30,8 +30,8 @@ body {
   height: 100vh;
   background-image: linear-gradient(
     to bottom, 
-    rgba(222,176,143,0.7), 
-    rgba(153,123,112, 0.7)
+    rgba(222,176,143,0.5), 
+    rgba(153,123,112, 0.5)
     ), 
     url('./img/visive.jpg');
   background-size: cover;
